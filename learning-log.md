@@ -24,3 +24,8 @@ I'm learning Git and version control to track my work.
 - [GitHub Docs](https://docs.github.com) - Official GitHub documentation
 
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+- Explore GitHub actions for automation
+- Prctice contributing to open source projects
